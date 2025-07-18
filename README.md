@@ -4,6 +4,7 @@
 
 This is a simple calculator which performs addition, subtraction, multiplication and division.
 
+<img width="608" height="637" alt="image" src="https://github.com/user-attachments/assets/7825c279-5523-4f7c-88e4-3bc230b53715" />
 
 
 ## Getting Started
